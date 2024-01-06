@@ -1,13 +1,13 @@
 {
   "todos": [
     {
-      "todo": "da",
+      "todo": "This json server template",
       "completed": false,
       "user": 1,
       "id": 101
     },
     {
-      "todo": "pasin",
+      "todo": "make by raykoshima",
       "completed": true,
       "id": 102
     }
