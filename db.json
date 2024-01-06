@@ -4,12 +4,17 @@
       "todo": "This json server template",
       "completed": false,
       "user": 1,
-      "id": 101
+      "id": 1
     },
     {
       "todo": "make by raykoshima",
       "completed": true,
-      "id": 102
+      "id": 2
+    },
+    {
+      "todo": "to use in Homework14 (React) : TodoList (CRUD) by พี่เจียง",
+      "completed": false,
+      "id": 3
     }
   ]
 }
