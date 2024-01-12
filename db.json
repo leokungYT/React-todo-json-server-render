@@ -1,20 +1,88 @@
 {
   "todos": [
     {
-      "todo": "This json server template",
+      "todo": "xxxx",
       "completed": false,
-      "user": 1,
-      "id": 1
-    },
-    {
-      "todo": "make by raykoshima",
-      "completed": true,
       "id": 2
     },
     {
-      "todo": "to use in Homework14 (React) : TodoList (CRUD) by พี่เจียง",
-      "completed": false,
+      "todo": "Watch a drama movie",
+      "completed": true,
       "id": 3
+    },
+    {
+      "todo": "Contribute code or a monetary donation to an open-source software project",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "todo": "Solve a Rubik's cube",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "todo": "Learn CSS",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "todo": "Learn vite js",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "todo": "Learn Data structure",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "todo": "Homework 14",
+      "completed": true,
+      "id": 15
+    },
+    {
+      "todo": "asdasdads",
+      "completed": false,
+      "user": 1,
+      "id": 16
+    },
+    {
+      "todo": "xxxaaa",
+      "completed": false,
+      "user": 1,
+      "id": 17
+    },
+    {
+      "todo": "asdasd",
+      "completed": false,
+      "user": 1,
+      "id": 18
+    },
+    {
+      "todo": "asdasdasd",
+      "completed": false,
+      "user": 1,
+      "id": 19
+    },
+    {
+      "todo": "asdasdasd",
+      "completed": false,
+      "user": 1,
+      "id": 20
+    },
+    {
+      "todo": "asdasd",
+      "completed": false,
+      "user": 1,
+      "id": 21
+    }
+  ],
+  "users": [
+    {
+      "name": "andy"
+    },
+    {
+      "name": "bobby"
     }
   ]
 }
